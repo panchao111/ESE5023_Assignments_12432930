@@ -1,1 +1,1 @@
-PS1.pdf 是用word转成pdf的，不是直接由notebook导出的，所以似乎在github上不能直接打开，需要下载下来看
+PS2的Baoan_Weather_1998_2022文件和ibtracs.ALL.list.v04r00，文件大于50MB，在gitkraken上上传，push不了。
