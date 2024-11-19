@@ -1,1 +1,3 @@
-PS2的Baoan_Weather_1998_2022文件和ibtracs.ALL.list.v04r00，文件大于50MB，在gitkraken上上传，push不了。
+PS3
+第三题使用的数据，vocdata是课题组的数据。是室内voc在几天内的浓度情况。
+由于保存网页导出pdf时，不知为何只能显示出当前屏幕上的那一页，后面的内容在pdf里导不出来，所以直接提交了网页，没有导成pdf。
